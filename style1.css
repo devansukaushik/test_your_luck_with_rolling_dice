@@ -1,0 +1,46 @@
+body{
+    background-color: darkslategrey;
+}
+
+/* .font{
+    font-size: 100px;
+    align-items: flex-start;
+    height: 100vh;
+    margin: 2px;
+} */
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    margin-top: 50px;
+  }
+.mid{
+    display: flex;
+     
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+}
+
+
+
+.dice  {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 30vh; 
+     
+    
+} 
+ 
+
+img{
+    display: block;
+    margin: 20px;
+}
+
+h4{
+    margin-top: 200px;
+}
+
+  
